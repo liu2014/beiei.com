@@ -1,6 +1,6 @@
 <?php
 /*
-世界买家-各洲特别产品页模板
+世界买家-各洲特别产品页模板master
 */
 require("../config.php");
 require("../function.php");
